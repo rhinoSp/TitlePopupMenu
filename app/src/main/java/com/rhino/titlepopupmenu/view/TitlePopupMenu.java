@@ -24,7 +24,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * <p>The custom menu extends popup window</p>
+ * <p>The custom menu extends popup window.</p>
  *
  * @since Created by LuoLin on 2017/5/27.
  **/
