@@ -1,6 +1,9 @@
 # TitlePopupMenu
 The custom menu extends popup window.
 
+# Screenshot
+![](https://github.com/rhinoSp/TitlePopupMenu/blob/master/screenrecord/screenrecord.gif)  
+
 # Question / Contact Me / Hire Me
 
 Please feel free to ping me at rhino_luo@163.com.
